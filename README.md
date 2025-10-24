@@ -95,19 +95,3 @@ Content by Type: There is a relatively balanced distribution between Movies and 
 📝 Conclusion
 
 This project helped me explore the Netflix dataset thoroughly, providing valuable insights into how Netflix's content is distributed across genres, countries, and time. The visualizations and analysis help in understanding trends and patterns, which can be used to predict future content strategies.
-
-🛠️ How to Run the Project
-
-Clone this repository to your local machine:
-
-git clone https://github.com/yourusername/netflix-content-analysis.git
-
-
-Install the required dependencies:
-
-pip install pandas matplotlib seaborn
-
-
-Run the notebook Netflix_Content_Analysis.ipynb in a Jupyter notebook or Google Colab.
-
-Make sure to upload the dataset (netflix_titles_all.csv) to the same directory.
